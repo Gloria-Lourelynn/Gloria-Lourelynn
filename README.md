@@ -61,14 +61,20 @@ Building intelligent solutions with AI, Machine Learning, and Software Developme
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gloria-Lourelynn&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloria-Lourelynn&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gloria-Lourelynn&theme=github-dark&hide_border=true"/>
-</p>
+<br>
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Gloria-Lourelynn&show_icons=true&theme=transparent&rank_icon=github" />
+
+<img width="390" src="https://streak-stats.demolab.com?user=Gloria-Lourelynn&theme=transparent&border_radius=10" />
+
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloria-Lourelynn&layout=compact&theme=transparent&langs_count=8&hide=css" />
+
+</div>
+
+<hr>
 
 ---
 
@@ -110,6 +116,16 @@ Building intelligent solutions with AI, Machine Learning, and Software Developme
 
 </div>
 
+---
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gloria-Lourelynn/Gloria-Lourelynn/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gloria-Lourelynn/Gloria-Lourelynn/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Gloria-Lourelynn/Gloria-Lourelynn/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 ---
 
 <div align="center">
