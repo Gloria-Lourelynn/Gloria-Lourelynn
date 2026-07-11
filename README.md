@@ -66,11 +66,11 @@ Building intelligent solutions with AI, Machine Learning, and Software Developme
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Gloria-Lourelynn&show_icons=true&theme=transparent&rank_icon=github" />
+
 
 <img width="390" src="https://streak-stats.demolab.com?user=Gloria-Lourelynn&theme=transparent&border_radius=10" />
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloria-Lourelynn&layout=compact&theme=transparent&langs_count=8&hide=css" />
+
 
 </div>
 
