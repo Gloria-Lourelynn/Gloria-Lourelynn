@@ -48,11 +48,14 @@ Building intelligent solutions with AI, Machine Learning, and Software Developme
 
 ## 🚀 Featured Projects
 
-### 🌿 GardenAI
+### GardenAI
 > AI-powered personal garden planner built using **Google ADK, Gemini, MCP, and Streamlit** with a multi-agent architecture.
 
-### 🩺 HealthPulse
-> Smart community health monitoring system for predicting and tracking water-borne diseases.
+### Trace Guard
+> QR-Based-Agricultural-Supply-Chain-Traceability
+
+### breast-cancer-nn-from-scratch
+> A complete Python project for breast cancer cell classification implemented with an artificial neural network built entirely from scratch using NumPy.
 
 ### 🤖 More AI Projects Coming Soon...
 > I'm continuously building new AI, Machine Learning, and Data Science projects.
